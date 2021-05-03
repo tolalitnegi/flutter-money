@@ -29,8 +29,8 @@ class TransactionWidget extends StatelessWidget {
           padding: EdgeInsets.all(5),
           decoration: BoxDecoration(
               border: Border.all(
-            color: Colors.deepOrange,
-            width: 2,
+              color: Colors.deepOrange,
+              width: 2,
           )),
         ),
         Column(
